@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Overlrd
-- 👀 I’m interested in developpement with python and C#
-- 🌱 I’m currently working on some android projects with C# and software develepement with python
-- 💞️ I’m looking to collaborate on every developpement subject with python or C#
+- 👀 I’m interested in Data Analytics and Programming  
+- 🌱 I’m currently working on many Data Analysis capstone projects
+- 💞️ I’m looking to collaborate on every Analytics or developpment subject with R, python or C#
 - 📫 my mail is premieraugust28@gmail.com
- I looking for working with dynamic people
+- Let's build great things😜😜
 
 <!---
 Overlrd/Overlrd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
