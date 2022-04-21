@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Overlrd
-- 👀 I’m interested in Data Analytics and Programming  
-- 🌱 I’m currently working on many Data Analysis capstone projects
-- 💞️ I’m looking to collaborate on every Analytics or developpment subject with R, python or C#
+- 👀 I’m interested in Data Analytics, Machine learning and web/mobile development
+- 🌱 I’m currently working on many AI models
+- 💞️ I'll be glad to collaborate on every machine learning project
+- 💞️ I'm working with Python, R, C# and PHP
 - 📫 my mail is premieraugust28@gmail.com
 - Let's build great things😜😜
 
