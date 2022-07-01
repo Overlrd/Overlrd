@@ -42,7 +42,7 @@ Hi I'm [Augustin KPADONOU](https://overlrd.github.io/portofolio/). computer enth
 ```text
 Tensorflow      ███████████████████░░░░░░   70 %
 JavaScript      ████▓░░░░░░░░░░░░░░░░░░░░   20 %
-Github          ██▒░░░░░░░░░░░░░░░░░░░░░░   10 %
+Stackoverflow   ██▒░░░░░░░░░░░░░░░░░░░░░░   10 %
 
 ```
 
