@@ -15,6 +15,8 @@
 <br />
 
 Hi I'm [Augustin KPADONOU](https://overlrd.github.io/portofolio/). computer enthusiast,  a passionate beginner self-trained developer. I am currently learning  Data Science and machine learning.I am fascinated by the way we consume and produce data and all the usefulness that can be drawn from this data through analytics and machine learning to deploy trough my beginner self-trained developer skills powerful and modern solutions.
+<br />
+My learning continues.
 
 
 
