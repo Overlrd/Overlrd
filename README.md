@@ -14,7 +14,7 @@
 <br />
 <br />
 
-**I'm [Augustin KPADONOU](https://overlrd.github.io/portofolio/),19, Data Analyst and AI Developper.
+**I'm [Augustin KPADONOU](https://overlrd.github.io/portofolio/),19, Data Analyst and AI Developer.
 <br />
 I am currently learning Tensorflow and js and working on very cool machine learning projects :grinning:.
 <br />
