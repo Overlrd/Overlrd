@@ -1,8 +1,8 @@
-### <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+### <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Nice to see you.</h1>
 <a href="https://www.instagram.com/">
   <img align="left" alt="Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="https://discord.gg">
+<a href="https://discord.com/channels/@S8d00#8869">
   <img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://twitter.com/@Sudo_Overloord">
@@ -14,13 +14,19 @@
 <br />
 <br />
 
-Hi I'm [Augustin KPADONOU](https://overlrd.github.io/portofolio/). computer enthusiast,  a passionate beginner self-trained developer. I am currently learning  Data Science and machine learning.I am fascinated by the way we consume and produce data and all the usefulness that can be drawn from this data through analytics and machine learning to deploy trough my beginner self-trained developer skills powerful and modern solutions.
+**I'm [Augustin KPADONOU](https://overlrd.github.io/portofolio/),19, Data Analyst and AI Developper.
 <br />
-My learning continues.
+I am currently learning Tensorflow and js and working on very cool machine learning projects :grinning:.
+<br />
+I believe in the potential of AI and that it could have a large impact on our world.
+<br />**
 
 
+  >-*AI is coming and it will transform our world in a fantastic way*- ,
+  **Francois CHOLLET**
+<br />
 
-<h3>Things I code with</h3>
+<h3>My Tools</h3>
 <p>
 
 <img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
@@ -38,13 +44,16 @@ My learning continues.
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
+
+[comment]: <> (a reference style link.)
+
+
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
-
 ```text
 Tensorflow      ███████████████████░░░░░░   70 %
 JavaScript      ████▓░░░░░░░░░░░░░░░░░░░░   20 %
-Stackoverflow   ██▒░░░░░░░░░░░░░░░░░░░░░░   10 %
+Spotify         ██▒░░░░░░░░░░░░░░░░░░░░░░   10 %
 
 ```
 
