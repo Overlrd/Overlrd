@@ -16,7 +16,7 @@
 
 **I'm [Augustin KPADONOU](https://overlrd.github.io/portofolio/),19, Data Analyst and AI Developer.
 <br />
-I am currently learning Tensorflow and js and working on very cool machine learning projects :grinning:.
+I am currently learning ML, working on very cool AI projects :grinning:.
 <br />
 I believe in the potential of AI and that it could have a large impact on our world.
 <br />**
