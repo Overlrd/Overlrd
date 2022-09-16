@@ -1,4 +1,4 @@
-### <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Nice to see you.</h1>
+### <h1><(￣︶￣)>   Nice to see you.</h1>
 <a href="https://www.instagram.com/">
   <img align="left" alt="Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
@@ -52,8 +52,8 @@ I believe in the potential of AI and that it could have a large impact on our wo
 <!--START_SECTION:waka-->
 ```text
 Tensorflow      ███████████████████░░░░░░   70 %
-JavaScript      ████▓░░░░░░░░░░░░░░░░░░░░   20 %
-Spotify         ██▒░░░░░░░░░░░░░░░░░░░░░░   10 %
+Flask           ████▓░░░░░░░░░░░░░░░░░░░░   20 %
+Deezer🙂        ██▒░░░░░░░░░░░░░░░░░░░░░░   10 %
 
 ```
 
