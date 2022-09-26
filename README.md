@@ -16,14 +16,14 @@
 
 **I'm [Augustin KPADONOU](https://overlrd.github.io/portofolio/),19, Data Analyst and AI Developer.
 <br />
-I am currently learning ML, working on very cool AI projects :grinning:.
+I am currently learning some very interesting stuff (ML, OOP ...) and  working on very cool projects(Check my repos) 😉
 <br />
 I believe in the potential of AI and that it could have a large impact on our world.
 <br />**
 
 
   >-*AI is coming and it will transform our world in a fantastic way*- ,
-  **Francois CHOLLET**
+  [ **Francois CHOLLET** ](https://www.manning.com/books/deep-learning-with-python) 
 <br />
 
 <h3>My Tools</h3>
@@ -45,14 +45,16 @@ I believe in the potential of AI and that it could have a large impact on our wo
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 
+
 [comment]: <> (a reference style link.)
 
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 ```text
+
 Tensorflow      ███████████████████░░░░░░   70 %
-Flask           ████▓░░░░░░░░░░░░░░░░░░░░   20 %
+OOP             ████▓░░░░░░░░░░░░░░░░░░░░   20 %
 Deezer🙂        ██▒░░░░░░░░░░░░░░░░░░░░░░   10 %
 
 ```
