@@ -14,9 +14,9 @@
 <br />
 <br />
 
-**I'm [Augustin KPADONOU](https://overlrd.github.io/portofolio/),19, Data Analyst and AI Developer.
+**[Augustin KPADONOU](https://overlrd.github.io/portofolio/),19, Data Analyst and AI Developer.
 <br />
-I am currently learning some very interesting stuff (ML, OOP ...) and  working on very cool projects(Check my repos) 😉
+Currently learning some very interesting stuff (ML, OOP ...) and  working on very cool projects(Check my repos) 😉
 <br />
 I believe in the potential of AI and that it could have a large impact on our world.
 <br />**
