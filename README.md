@@ -16,7 +16,7 @@
 
 **[Augustin KPADONOU](https://overlrd.github.io/portofolio/),19, Data Analyst and AI Developer.
 <br />
-Currently learning some very interesting stuff (ML, OOP ...) and  working on very cool projects(Check my repos) 😉
+Currently self learning  Data Science and AI working some very interesting stuff (ML, Data, API's, Games ...).
 <br />
 I believe in the potential of AI and that it could have a large impact on our world.
 <br />**
@@ -30,15 +30,12 @@ I believe in the potential of AI and that it could have a large impact on our wo
 <p>
 
 <img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-<img alt="Colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img alt='R' src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
 <img alt="SQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 <br \>
-<img alt="SQlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
 <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-<img alt="HTML5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
 <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 <img alt="Xamarin" src="https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white">
 
@@ -53,9 +50,9 @@ I believe in the potential of AI and that it could have a large impact on our wo
 <!--START_SECTION:waka-->
 ```text
 
-Tensorflow      ███████████████████░░░░░░   70 %
-Python OOP      ████▓░░░░░░░░░░░░░░░░░░░░   20 %
-Deezer🙂        ███▒░░░░░░░░░░░░░░░░░░░░ 10 %
+Code            ███████████████████░░░░░░   70 %
+Music           ████▓░░░░░░░░░░░░░░░░░░░░   20 %
+Mangas          ███▒░░░░░░░░░░░░░░░░░░░░ 10 %
 
 ```
 
