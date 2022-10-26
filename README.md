@@ -16,7 +16,7 @@
 
 **[Augustin KPADONOU](https://overlrd.github.io/portofolio/),19, Data Analyst and AI Developer.
 <br />
-Currently self learning  Data Science and AI working some very interesting stuff (ML, Data, API's, Games ...).
+Currently self learning  Data Science and AI, working some very interesting stuff (ML, Data, API's, Games ...).
 <br />
 I believe in the potential of AI and that it could have a large impact on our world.
 <br />**
