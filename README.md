@@ -1,7 +1,8 @@
-###
-<img  src="https://media.giphy.com/media/nT5Uu59qifKBG/giphy.gif">
 
- <h1>Nice to see you.</h1>
+
+
+
+ ### <h1>```Nice to see you```</h1>
 
 <a href="https://discord.com/channels/@S8d00#8869">
   <img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
@@ -15,13 +16,24 @@
 <br />
 <br />
 
-[Augustin KPADONOU](https://overlrd.github.io/portofolio/),19, Data Analyst and AI Developer.
+ <img src="https://media.giphy.com/media/nT5Uu59qifKBG/giphy.gif" width="500" height="220" style="display: block; margin: 0 auto" />
+
+          
 <br />
-Currently self learning  Data Science and AI, working some very interesting stuff (ML, Data, API's, Games ...).
 <br />
 
 
-<h3>My Tools</h3>
+
+```  Augustin ,19, Data Analyst and AI Developer. ```
+
+
+``` Currently self learning  Data Science and AI, working some very interesting stuff (ML, Data, API's, Games ...) ```
+
+__Check my portofolio , it's cool__ [(づ｡◕‿‿◕｡)づ](https://overlrd.github.io/portofolio/)
+<br />
+
+
+ #### <h3>```Tools ,Languages & Frameworks```</h3>
 <p>
 
 <img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
@@ -59,7 +71,7 @@ Mangas          ==-----------------------   10 %
 ## <h3 align="left">GitHub Stats</h3>
 
 <a href="">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Overlrd&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/?username=Overlrd&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
 <a />
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Overlrd&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
