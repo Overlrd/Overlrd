@@ -1,4 +1,7 @@
-### <h1><(￣︶￣)>   Nice to see you.</h1>
+###
+<img  src="https://media.giphy.com/media/nT5Uu59qifKBG/giphy.gif">
+
+ <h1>Nice to see you.</h1>
 
 <a href="https://discord.com/channels/@S8d00#8869">
   <img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
@@ -12,17 +15,11 @@
 <br />
 <br />
 
-**[Augustin KPADONOU](https://overlrd.github.io/portofolio/),19, Data Analyst and AI Developer.
+[Augustin KPADONOU](https://overlrd.github.io/portofolio/),19, Data Analyst and AI Developer.
 <br />
 Currently self learning  Data Science and AI, working some very interesting stuff (ML, Data, API's, Games ...).
 <br />
-I believe in the potential of AI and that it could have a large impact on our world.
-<br />**
 
-
-  >-*AI is coming and it will transform our world in a fantastic way*- ,
-  [ **Francois CHOLLET** ](https://www.manning.com/books/deep-learning-with-python) 
-<br />
 
 <h3>My Tools</h3>
 <p>
