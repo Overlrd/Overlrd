@@ -1,7 +1,5 @@
 ### <h1><(￣︶￣)>   Nice to see you.</h1>
-<a href="https://www.instagram.com/">
-  <img align="left" alt="Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
+
 <a href="https://discord.com/channels/@S8d00#8869">
   <img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
@@ -49,10 +47,10 @@ I believe in the potential of AI and that it could have a large impact on our wo
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 ```text
-
-Code            ███████████████████░░░░░░   70 %
-Music           ████▓░░░░░░░░░░░░░░░░░░░░   20 %
-Mangas          ███▒░░░░░░░░░░░░░░░░░░░░ 10 %
+  
+Code            ===================------   70 %
+Music           ====---------------------   20 %
+Mangas          ==-----------------------   10 %
 
 ```
 
