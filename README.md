@@ -1,8 +1,9 @@
-
-
-
-
  ### <h1>```Nice to see you```</h1>
+
+<br />
+<br />
+
+ <img src="https://media.giphy.com/media/nlk3Y1u3r1n5C/giphy.gif" width="700" height="320" style="display: block; margin: 0 auto" />
 
 <a href="https://discord.com/channels/@S8d00#8869">
   <img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
@@ -13,14 +14,10 @@
 <a href="https://www.linkedin.com/in/augustin-kpadonou-590aa5227">
   <img align="left" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+
 <br />
 <br />
 
- <img src="https://media.giphy.com/media/nT5Uu59qifKBG/giphy.gif" width="500" height="220" style="display: block; margin: 0 auto" />
-
-          
-<br />
-<br />
 
 
 
