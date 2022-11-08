@@ -21,7 +21,7 @@
 
 
 
-```  Augustin ,19, Data Analyst and AI Developer. ```
+```  Augustin ,19, Data Analyst and ML Developer. ```
 
 
 ``` Currently self learning  Data Science and AI, working some very interesting stuff (ML, Data, API's, Games ...) ```
@@ -35,13 +35,13 @@ __Check my portofolio , it's cool__ [(づ｡◕‿‿◕｡)づ](https://overlrd
 
 <img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img alt='flask' src ='https://img.shields.io/badge/Flask-00000F?style=for-the-badge&logo=flask&logoColor=white'  />
 <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img alt='R' src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
 <img alt="SQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 <br \>
 <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-<img alt="Xamarin" src="https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white">
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
