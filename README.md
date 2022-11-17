@@ -21,12 +21,12 @@
 
 
 
-```  Augustin ,19, Data Analyst and ML Developer. ```
+```  Augustin ,19, self-taught Data Analyst and AI developer. ```
 
 
 ``` Currently self learning  Data Science and AI, working some very interesting stuff (ML, Data, API's, Games ...) ```
 
-__Check my website , it's cool__ [(づ｡◕‿‿◕｡)づ  Here](https://overlrd.github.io/portofolio/)
+__Check my website , [(づ｡◕‿‿◕｡)づ  Here](https://overlrd.github.io/portofolio/)
 <br />
 
 
