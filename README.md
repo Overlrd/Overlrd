@@ -26,7 +26,7 @@
 
 ``` Currently self learning  Data Science and AI, working some very interesting stuff (ML, Data, API's, Games ...) ```
 
-__Check my website , [(づ｡◕‿‿◕｡)づ  Here](https://overlrd.github.io/portofolio/)
+__Check my website , [(づ｡◕‿‿◕｡)づ  Here](https://overlrd.github.io/portofolio/)__
 <br />
 
 
