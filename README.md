@@ -21,10 +21,10 @@
 
 
 
-```  Augustin ,19, self-taught Data Analyst and AI developer. ```
+```  Augustin ,19, passionate with Tech. ```
 
 
-``` Currently self learning  Data Science and AI, working some very interesting stuff (ML, Data, API's, Games ...) ```
+``` Currently self learning  Data Science, AI and Full-Stack Dev, working some very interesting stuff (ML, Data, API's, Games ...) ```
 
 __Check my website , [(づ｡◕‿‿◕｡)づ  Here](https://overlrd.github.io/portofolio/)__
 <br />
@@ -36,6 +36,7 @@ __Check my website , [(づ｡◕‿‿◕｡)づ  Here](https://overlrd.github.i
 <img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img alt='flask' src ='https://img.shields.io/badge/Flask-00000F?style=for-the-badge&logo=flask&logoColor=white'  />
+<img alt="Django" src="https://img.shields.io/badge/-Django-092E20.svg?logo=django&style=flat"   />
 <img alt='firebase', src='https://img.shields.io/badge/Firebase-fff?style=for-the-badge&logo=firebase&logoColor=yellow' />
 <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
  <br \>
