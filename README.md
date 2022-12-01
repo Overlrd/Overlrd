@@ -24,9 +24,8 @@
 ```  Augustin ,19, passionate with Tech. ```
 
 
-``` Currently self learning  Data Science, AI and Full-Stack Dev, working some very interesting stuff (ML, Data, API's, Games ...) ```
+``` Currently learning  Data Science, AI and Full-Stack Dev, working some very various projects (ML models, Data Analysis, API's, Web apps ...) ```
 
-__Check my website , [(づ｡◕‿‿◕｡)づ  Here](https://overlrd.github.io/portofolio/)__
 <br />
 
 
