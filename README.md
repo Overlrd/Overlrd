@@ -18,18 +18,19 @@
 <br />
 <br />
 
+*__My personal website [here](https://overlrd.github.io/portofolio/#portofolio)__*
 
 
 
 ```  Augustin ,19, passionate with Tech. ```
 
 
-``` Currently learning  Data Science, AI and Full-Stack Dev, working some very various projects (ML models, Data Analysis, API's, Web apps ...) ```
+``` Currently learning  Data Science, AI and Full-Stack Dev, working on various projects (ML models, Data Analysis, API's, Web apps ...) ```
 
 <br />
 
 
- #### <h3>```Tools ,Languages & Frameworks```</h3>
+ #### <h3>```Tools ,Languages & Frameworks i use```</h3>
 <p>
 
 <img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
