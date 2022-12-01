@@ -57,9 +57,9 @@ __Check my website , [(づ｡◕‿‿◕｡)づ  Here](https://overlrd.github.i
 <!--START_SECTION:waka-->
 ```text
   
-Deep Learning With Python - Robert Chollet            ===================------   70 %
-Spotify                                               ====---------------------   20 %
-Mangas                                                ==-----------------------   10 %
+Deep Learning With Python - Robert Chollet            - 70 %
+Spotify                                               - 20 %
+Mangas                                                - 10 %
 
 ```
 
