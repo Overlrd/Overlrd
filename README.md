@@ -57,9 +57,8 @@
 <!--START_SECTION:waka-->
 ```text
   
-Deep Learning With Python - Robert Chollet            - 70 %
-Spotify                                               - 20 %
-Mangas                                                - 10 %
+CS50-WEB                            - 70 %
+Spotify                             - 30 %
 
 ```
 
