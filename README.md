@@ -73,7 +73,7 @@ Spotify                             - 30 %
   <img style='padding-top:30px;' width='60%' align="left" src="https://github-readme-stats.vercel.app/api/?username=Overlrd&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
 
   
-<img align='right' width='auto' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Overlrd&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Overlrd&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
 
 <!---
 Overlrd/Overlrd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
