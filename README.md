@@ -70,7 +70,7 @@ Spotify                             - 30 %
 ## <h3 align="left">GitHub Stats</h3>
 
 
-  <img align="left" src="https://github-readme-stats.vercel.app/api/?username=Overlrd&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
+  <img width='50%' align="left" src="https://github-readme-stats.vercel.app/api/?username=Overlrd&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
 
   
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Overlrd&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
