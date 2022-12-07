@@ -25,7 +25,7 @@
 ```  Augustin ,19, passionate with Tech. ```
 
 
-``` Currently learning  Data Science, AI and Full-Stack Dev, working on various projects (ML models, Data Analysis, API's, Web apps ...) ```
+```  Currently learning  Data Science, AI and Full-Stack Dev, working on various projects (ML models, Data Analysis, API's, Web apps ...) ```
 
 <br />
 
@@ -35,6 +35,7 @@
 
 <img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img alt="keras" src="https://img.shields.io/badge/keras-fff?style=for-the-badge&logo=keras&logoColor=red" />
 <img alt='flask' src ='https://img.shields.io/badge/Flask-00000F?style=for-the-badge&logo=flask&logoColor=white'  />
 <img alt="Django" src="https://img.shields.io/badge/-Django-092E20.svg?logo=django&style=flat"   />
 <img alt='firebase', src='https://img.shields.io/badge/Firebase-fff?style=for-the-badge&logo=firebase&logoColor=yellow' />
@@ -46,9 +47,13 @@
 <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 
+<br/>
+<br/>
+ 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-
+<br/>
+<br/>
 
 [comment]: <> (a reference style link.)
 
