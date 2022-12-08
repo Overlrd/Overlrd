@@ -60,10 +60,10 @@
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
-```text
+```html
   
-CS50-WEB                            - 70 %
-Spotify                             - 30 %
+CS50-WEB     -----------------      - 70 %
+Spotify      ----                   - 30 %
 
 ```
 
