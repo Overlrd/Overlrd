@@ -79,14 +79,29 @@ Spotify                             - 30 %
 <br/>
 
 <div>
-<img  width='50%' align="left" src="https://github-readme-stats.vercel.app/api/?username=Overlrd&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
+<img  width='50%' align="center" src="https://github-readme-stats.vercel.app/api/?username=Overlrd&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
 
-  
-<img width='auto' align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Overlrd&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
+<img width='auto' align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Overlrd&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
 </div>
 
-<!--START_SECTION:badges-->
-<!--END_SECTION:badges-->
+<br/>
+<br/>
+<br/>
+
+## <h3> Certifications <h3/>
+<br/>
+<br/>
+<br/>
+
+
+Course &nbsp; | [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics) | [Oracle Cloud Infrastructure Foundations 2021 Associate](https://education.oracle.com/oracle-cloud-infrastructure-foundations-2021-certified-associate/trackp_OCIBF2021) 
+--- | --- | --- 
+Badge | <div align="center"> <img width='100%' src='https://user-images.githubusercontent.com/90383672/206413485-e1e6d05e-3ea4-4152-8ff1-b3b0fd1b7a1d.png' /> </div> | <div align="center"> <img width='100%' src='https://user-images.githubusercontent.com/90383672/206409454-5253ec15-c403-448b-9b94-ae605fa61eda.png' /> </div>  | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276
+Check It | <div align="center"> [Here](https://www.credly.com/badges/2c3b3e8d-6e02-476c-82f1-e86af472f8d5/public_url) </div> | <div align="center"> [Here](https://catalog-education.oracle.com/pls/certview/sharebadge?id=82CE242E17003426EA59C5B833FBB8DA5367981101D32F395BB42198E7ADBF14) </div>  
+
+
+
+
 
 
 
