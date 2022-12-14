@@ -21,11 +21,12 @@
 *__My personal website [here](https://overlrd.github.io/portofolio/#portofolio)__*
 
 
+**Hi there! My name is Augustin, and I'm a self-taught developer and data scientist who is passionate about new technologies.**
 
-```  Augustin ,19, passionate with Tech. ```
+**I have been teaching myself to code and to analyze data for the past few years, 
+and I'm always eager to learn more and stay up to date with the latest developments in these fields.**
 
-
-```  Currently learning  Data Science, AI and Full-Stack Dev, working on various projects (ML models, Data Analysis, API's, Web apps ...) ```
+**I'm also interested in machine learning and artificial intelligence, and I'm constantly experimenting with different algorithms and models.**
 
 <br />
 
