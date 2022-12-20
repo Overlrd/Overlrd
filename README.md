@@ -3,7 +3,8 @@
 <br />
 <br />
 
- <img src="https://media.giphy.com/media/nlk3Y1u3r1n5C/giphy.gif" width="700" height="320" style="display: block; margin: 0 auto" />
+
+ <img src="https://media.giphy.com/media/nlk3Y1u3r1n5C/giphy.gif" width="1000" style="display: block; margin: 0 auto" />
 
 <a href="https://discord.com/channels/@S8d00#8869">
   <img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
