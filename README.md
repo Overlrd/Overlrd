@@ -91,7 +91,7 @@ Spotify      ----                   - 30 %
 <br/>
 <br/>
 
-## <h3> Certifications <h3/>
+## <h3> Certs <h3/>
 <br/>
 <br/>
 <br/>
