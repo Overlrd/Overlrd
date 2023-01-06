@@ -27,7 +27,9 @@
 **I have been teaching myself to code and to analyze data for the past few years, 
 and I'm always eager to learn more and stay up to date with the latest developments in these fields.**
 
-**I'm also interested in machine learning and artificial intelligence, and I'm constantly experimenting with different algorithms and models.**
+
+**I am currently enrolled in a sociology program at [University of Lomé](https://univ-lome.tg/accueil) , where I am learning about the theories and methods used to study society and social patterns to expand my perspective and bring a new level of understanding to my data science work.**
+
 
 <br />
 
