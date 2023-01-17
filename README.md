@@ -84,9 +84,9 @@ Spotify      ----                   - 30 %
 <br/>
 
 <div>
-<img  width='50%' align="center" src="https://github-readme-stats.vercel.app/api/?username=Overlrd&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
+<img  width='50%' align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=Overlrd&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
 
-<img width='auto' align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Overlrd&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
+<img width='auto' align='center' src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Overlrd&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
 </div>
 
 <br/>
