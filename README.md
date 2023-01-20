@@ -32,11 +32,16 @@ and I'm always eager to learn more and stay up to date with the latest developme
 
 
 <br />
+ 
+## 🎧 Spotify Playing
+
+<div align="center">
+ 
 
 
 [![Peaceful Piano](https://img.shields.io/badge/Peaceful%20Piano-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZF1DX4sWSpwq3LiO?si=444f11e964104e6f) [![Lofi Infini - Le règlement](https://img.shields.io/badge/Lofi%20Infini%20Le%20R%C3%A8glement-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/4euMtNSFf0p2lFF2ivAEzb?si=3c8e206d11bc47d5) [![sudo](https://img.shields.io/badge/Sudo-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/5wRKSucRBPcOlw8pAPZPGm?si=513d53d697634a3c) [![This is Nepal](https://img.shields.io/badge/This%20is%20Nepal-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0UYK2I?si=8a0e142e9d954a54)
 
-## 🎧 Spotify Playing
+</div>
 
 <div align="center"> 
  
