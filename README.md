@@ -33,7 +33,7 @@ and I'm always eager to learn more and stay up to date with the latest developme
 
 <br />
  
-## 🎧 Spotify Playing
+## 🎧 Currently Listening
 
 <div align="center">
  
