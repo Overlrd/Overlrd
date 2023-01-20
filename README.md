@@ -40,7 +40,7 @@ and I'm always eager to learn more and stay up to date with the latest developme
 
 <div align="center"> 
  
-[<img src="https://now-playing-spotify-2-gfevgj20r-overlrd.vercel.app/api/spotify-playing" width="500" />](https://open.spotify.com/user/314v7s32prl5rereab23odp3ehnq)
+[<img src="https://now-playing-spotify-2-d1i8giuwo-overlrd.vercel.app/api/spotify-playing" width="500" />](https://open.spotify.com/user/314v7s32prl5rereab23odp3ehnq)
 
 </div>
 
