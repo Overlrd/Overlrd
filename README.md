@@ -34,6 +34,10 @@ and I'm always eager to learn more and stay up to date with the latest developme
 <br />
 
 
+[![Peaceful Piano](https://img.shields.io/badge/Peaceful%20Piano-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZF1DX4sWSpwq3LiO?si=444f11e964104e6f) [![Lofi Infini - Le règlement](https://img.shields.io/badge/Lofi%20Infini%20Le%20R%C3%A8glement-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/4euMtNSFf0p2lFF2ivAEzb?si=3c8e206d11bc47d5) [![sudo](https://img.shields.io/badge/Sudo-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/5wRKSucRBPcOlw8pAPZPGm?si=513d53d697634a3c) [![This is Nepal](https://img.shields.io/badge/This%20is%20Nepal-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0UYK2I?si=8a0e142e9d954a54)
+
+[![Spotify](https://spotify-now-playing-1.vercel.app/api/spotify-playing)](https://open.spotify.com/user/314v7s32prl5rereab23odp3ehnq)
+
  #### <h3>```Tools ,Languages & Frameworks i use```</h3>
 <p>
 
@@ -54,35 +58,11 @@ and I'm always eager to learn more and stay up to date with the latest developme
 
 <br/>
 <br/>
- 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+
+## **GitHub Stats**
 
 <br/>
-<br/>
-
-[comment]: <> (a reference style link.)
-
-
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
-```html
-  
-CS50-WEB     -----------------      - 70 %
-Spotify      ----                   - 30 %
-
-```
-
-<!--END_SECTION:waka-->
-
-
-
-
-## <h3 align="left">GitHub Stats</h3>
-
-<br/>
-<br/>
-<br/>
-
 <div>
 <img  width='50%' align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=Overlrd&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
 
@@ -90,16 +70,21 @@ Spotify      ----                   - 30 %
 </div>
 
 <br/>
+<h2 align="left">⚡Activity Graph:</h2>
+  <a><img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=overlrd&theme=react-dark&hide_border=true" />
+ 
+
+  </a>
 <br/>
 <br/>
 
-## <h3> Certs <h3/>
+## **Certs 🏅**
 <br/>
 <br/>
 <br/>
 
 
-Course &nbsp; | [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics) | [Oracle Cloud Infrastructure Foundations 2021 Associate](https://education.oracle.com/oracle-cloud-infrastructure-foundations-2021-certified-associate/trackp_OCIBF2021) 
+Cerification &nbsp; | [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics) | [Oracle Cloud Infrastructure Foundations 2021 Associate](https://education.oracle.com/oracle-cloud-infrastructure-foundations-2021-certified-associate/trackp_OCIBF2021) 
 --- | --- | --- 
 Badge | <div align="center"> <img width='100%' src='https://user-images.githubusercontent.com/90383672/206413485-e1e6d05e-3ea4-4152-8ff1-b3b0fd1b7a1d.png' /> </div> | <div align="center"> <img width='100%' src='https://user-images.githubusercontent.com/90383672/206409454-5253ec15-c403-448b-9b94-ae605fa61eda.png' /> </div>  | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276
 Check It | <div align="center"> [Here](https://www.credly.com/badges/2c3b3e8d-6e02-476c-82f1-e86af472f8d5/public_url) </div> | <div align="center"> [Here](https://catalog-education.oracle.com/pls/certview/sharebadge?id=82CE242E17003426EA59C5B833FBB8DA5367981101D32F395BB42198E7ADBF14) </div>  
