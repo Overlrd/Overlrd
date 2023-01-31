@@ -54,6 +54,12 @@ and I'm always eager to learn more and stay up to date with the latest developme
 <br/>
 <br/>
 
+<!---
+<div align="center">
+ <img src='http://www.rdos.net/fr/poly10a.php?p1=100&p2=70&p3=76&p4=46&p5=68&p6=72&p7=83&p8=55&p9=47&p10=74'/>
+</div>
+-->
+
  ## 🖲 ```Tools ,Languages & Frameworks i use```
 
 <br/>
