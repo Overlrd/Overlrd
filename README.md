@@ -21,7 +21,7 @@
 <br />
 <br />
 
-*__My personal website [here](https://overlrd.github.io/portofolio/#portofolio)__*
+*__My personal website [here](https://overlrd.github.io)__*
 
 
 **Hi there! My name is Augustin, and I'm a self-taught developer and data scientist who is passionate about new technologies.**
