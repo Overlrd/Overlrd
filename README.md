@@ -4,8 +4,9 @@
 
 <div align="center">
  
-## 🎧 Currently Listening
-  
-[<img src="https://now-playing-spotify-2-d1i8giuwo-overlrd.vercel.app/api/spotify-playing" width="500" />](https://open.spotify.com/user/314v7s32prl5rereab23odp3ehnq)
+[![vibee](https://cdn3.emoji.gg/emojis/2212-vibee.gif)](https://emoji.gg/emoji/2212-vibee) _Currently Listening_
+======                                                                                              
+ 
+[<img src="https://now-playing-spotify-2-d1i8giuwo-overlrd.vercel.app/api/spotify-playing" width="600" />](https://open.spotify.com/user/314v7s32prl5rereab23odp3ehnq)
 
 </div>
