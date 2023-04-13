@@ -11,4 +11,8 @@
 
 </div>
 
+<div align="center">
+The best thing i ever read https://pastebin.com/zZrdRrNA
+ </div>
+
 
