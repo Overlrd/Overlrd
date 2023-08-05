@@ -12,7 +12,7 @@
 </pre>
 
 <div>
-The best thing i ever read https://pastebin.com/zZrdRrNA
+The best thing i've ever read : https://pastebin.com/Dudg7QC8
 </div>
 
 
